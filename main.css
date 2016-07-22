@@ -1,0 +1,24 @@
+.borde{
+	width: 10%;
+	height: 4px;
+	background-color: black;
+
+}
+
+.foto{
+	margin: 10px;
+	display: inline-block;
+	position: relative;
+}
+p{
+	position: absolute;
+	bottom:-10px;
+	left: 80px;
+	color: white;
+
+}
+
+
+a.opacidad:hover{
+	opacity: 0.5px;
+}
